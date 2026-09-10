@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sirpi\\.nuget\\packages\\": {}
+    "C:\\Users\\jodi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sirpi\\OneDrive\\Documents\\Mini Challenge #4 - Greater Than or Less Than\\Mini Challenge #4 - Greater Than or Less Than.csproj",
+      "projectUniqueName": "C:\\Users\\jodi\\Desktop\\Repositories\\Mini-Challenge--4---Greater-Than-or-Less-Than\\Mini Challenge #4 - Greater Than or Less Than.csproj",
       "projectName": "Mini Challenge #4 - Greater Than or Less Than",
-      "projectPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Mini Challenge #4 - Greater Than or Less Than\\Mini Challenge #4 - Greater Than or Less Than.csproj",
-      "packagesPath": "C:\\Users\\sirpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Mini Challenge #4 - Greater Than or Less Than\\obj\\",
+      "projectPath": "C:\\Users\\jodi\\Desktop\\Repositories\\Mini-Challenge--4---Greater-Than-or-Less-Than\\Mini Challenge #4 - Greater Than or Less Than.csproj",
+      "packagesPath": "C:\\Users\\jodi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jodi\\Desktop\\Repositories\\Mini-Challenge--4---Greater-Than-or-Less-Than\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sirpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jodi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
