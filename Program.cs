@@ -1,4 +1,10 @@
 ﻿Console.Clear();
+//Zackary Santos
+//Last Saved: 9/10/2026 8:05 AM
+//Mini Challenge #4 - Greater Than or Less Than
+//I asked the user to input 2 numbers and then the console will compare them both
+//Peer Review name:
+//Review:
 
 Console.WriteLine("Enter your first number: ");
 
